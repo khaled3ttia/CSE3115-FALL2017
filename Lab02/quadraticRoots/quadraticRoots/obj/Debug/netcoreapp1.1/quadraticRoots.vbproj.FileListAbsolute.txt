@@ -1,0 +1,9 @@
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\bin\Debug\netcoreapp1.1\quadraticRoots.deps.json
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\bin\Debug\netcoreapp1.1\quadraticRoots.runtimeconfig.json
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\bin\Debug\netcoreapp1.1\quadraticRoots.runtimeconfig.dev.json
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\bin\Debug\netcoreapp1.1\quadraticRoots.dll
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\bin\Debug\netcoreapp1.1\quadraticRoots.pdb
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\obj\Debug\netcoreapp1.1\quadraticRoots.vbproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\obj\Debug\netcoreapp1.1\quadraticRoots.AssemblyInfo.vb
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\obj\Debug\netcoreapp1.1\quadraticRoots.dll
+C:\Users\Khaled\source\VB-11\Lab02\quadraticRoots\quadraticRoots\obj\Debug\netcoreapp1.1\quadraticRoots.pdb
