@@ -1,0 +1,9 @@
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\bin\Debug\netcoreapp1.1\factors.deps.json
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\bin\Debug\netcoreapp1.1\factors.runtimeconfig.json
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\bin\Debug\netcoreapp1.1\factors.runtimeconfig.dev.json
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\bin\Debug\netcoreapp1.1\factors.dll
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\bin\Debug\netcoreapp1.1\factors.pdb
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\obj\Debug\netcoreapp1.1\factors.vbproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\obj\Debug\netcoreapp1.1\factors.AssemblyInfo.vb
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\obj\Debug\netcoreapp1.1\factors.dll
+C:\Users\Khaled\source\VB-11\Lab03\factors\factors\obj\Debug\netcoreapp1.1\factors.pdb
