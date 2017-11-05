@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\bin\Debug\oddOrEven.exe.config
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\bin\Debug\oddOrEven.exe
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\bin\Debug\oddOrEven.pdb
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\bin\Debug\oddOrEven.xml
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\obj\Debug\oddOrEven.Resources.resources
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\obj\Debug\oddOrEven.vbproj.GenerateResource.Cache
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\obj\Debug\oddOrEven.vbproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\obj\Debug\oddOrEven.exe
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\obj\Debug\oddOrEven.xml
+C:\Users\Khaled\source\VB-11\oddOrEven\oddOrEven\obj\Debug\oddOrEven.pdb

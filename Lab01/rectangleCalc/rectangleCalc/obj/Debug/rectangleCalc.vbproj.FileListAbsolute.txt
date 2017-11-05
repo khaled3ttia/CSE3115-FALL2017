@@ -1,0 +1,11 @@
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\bin\Debug\rectangleCalc.exe.config
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\bin\Debug\rectangleCalc.exe
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\bin\Debug\rectangleCalc.pdb
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\bin\Debug\rectangleCalc.xml
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\obj\Debug\rectangleCalc.Resources.resources
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\obj\Debug\rectangleCalc.vbproj.GenerateResource.Cache
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\obj\Debug\rectangleCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\obj\Debug\rectangleCalc.exe
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\obj\Debug\rectangleCalc.xml
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\obj\Debug\rectangleCalc.pdb
+C:\Users\Khaled\source\VB-11\rectangleCalc\rectangleCalc\obj\Debug\rectangleCalc.vbprojResolveAssemblyReference.cache

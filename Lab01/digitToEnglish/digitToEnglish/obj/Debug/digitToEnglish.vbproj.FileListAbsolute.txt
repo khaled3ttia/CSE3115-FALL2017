@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\bin\Debug\digitToEnglish.exe.config
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\bin\Debug\digitToEnglish.exe
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\bin\Debug\digitToEnglish.pdb
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\bin\Debug\digitToEnglish.xml
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\obj\Debug\digitToEnglish.Resources.resources
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\obj\Debug\digitToEnglish.vbproj.GenerateResource.Cache
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\obj\Debug\digitToEnglish.vbproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\obj\Debug\digitToEnglish.exe
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\obj\Debug\digitToEnglish.xml
+C:\Users\Khaled\source\VB-11\digitToEnglish\digitToEnglish\obj\Debug\digitToEnglish.pdb
