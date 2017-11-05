@@ -1,0 +1,9 @@
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\bin\Debug\netcoreapp1.1\maxArray.deps.json
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\bin\Debug\netcoreapp1.1\maxArray.runtimeconfig.json
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\bin\Debug\netcoreapp1.1\maxArray.runtimeconfig.dev.json
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\bin\Debug\netcoreapp1.1\maxArray.dll
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\bin\Debug\netcoreapp1.1\maxArray.pdb
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\obj\Debug\netcoreapp1.1\maxArray.vbproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\obj\Debug\netcoreapp1.1\maxArray.AssemblyInfo.vb
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\obj\Debug\netcoreapp1.1\maxArray.dll
+C:\Users\Khaled\source\VB-11\Lab03\maxArray\maxArray\obj\Debug\netcoreapp1.1\maxArray.pdb
