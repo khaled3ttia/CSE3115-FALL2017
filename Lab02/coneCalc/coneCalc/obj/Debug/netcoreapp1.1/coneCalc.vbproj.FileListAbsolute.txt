@@ -1,0 +1,9 @@
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\bin\Debug\netcoreapp1.1\coneCalc.deps.json
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\bin\Debug\netcoreapp1.1\coneCalc.runtimeconfig.json
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\bin\Debug\netcoreapp1.1\coneCalc.runtimeconfig.dev.json
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\bin\Debug\netcoreapp1.1\coneCalc.dll
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\bin\Debug\netcoreapp1.1\coneCalc.pdb
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\obj\Debug\netcoreapp1.1\coneCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\obj\Debug\netcoreapp1.1\coneCalc.AssemblyInfo.vb
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\obj\Debug\netcoreapp1.1\coneCalc.dll
+C:\Users\Khaled\source\VB-11\Lab02\coneCalc\coneCalc\obj\Debug\netcoreapp1.1\coneCalc.pdb
