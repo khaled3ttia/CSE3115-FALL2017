@@ -1,0 +1,10 @@
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\bin\Debug\netcoreapp1.1\sumandproduct.deps.json
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\bin\Debug\netcoreapp1.1\sumandproduct.runtimeconfig.json
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\bin\Debug\netcoreapp1.1\sumandproduct.runtimeconfig.dev.json
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\bin\Debug\netcoreapp1.1\sumandproduct.dll
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\bin\Debug\netcoreapp1.1\sumandproduct.pdb
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\obj\Debug\netcoreapp1.1\sumandproduct.vbprojResolveAssemblyReference.cache
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\obj\Debug\netcoreapp1.1\sumandproduct.vbproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\obj\Debug\netcoreapp1.1\sumandproduct.AssemblyInfo.vb
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\obj\Debug\netcoreapp1.1\sumandproduct.dll
+C:\Users\Khaled\source\VB-11\Lab02\sumandproduct\sumandproduct\obj\Debug\netcoreapp1.1\sumandproduct.pdb
